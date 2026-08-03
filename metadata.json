@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Autonomous Phishing Investigation Agent providing multi-layered email header, URL, attachment analysis, and explainable SOC threat verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
